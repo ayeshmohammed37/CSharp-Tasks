@@ -1,0 +1,8 @@
+Memory with value and refrence type varbles
+	https://docs.google.com/document/d/1CNPzHnPZ3wTtIbw_vGKZdZRbXbuyqCG2lnGMF6Vx6ng/edit?usp=sharing
+compiled and interpreted languages
+	https://docs.google.com/document/d/1L0UcsuFYZ4L6qUbvPdZzVexI80gLqpE-FHuaJB5TAdc/edit?usp=sharing
+Compare between implicit, explicit, Convert and parse casting
+	https://docs.google.com/document/d/17wcIIg9ODZZAfNhcLmwq4TBw9D8RR38StKFTj8lLdeI/edit?usp=sharing
+C# Managed Code
+	https://docs.google.com/document/d/1NpQM--VrWBwkU5w7XeBxM_UcD5EV8R2rJHXYOr62hiY/edit?usp=sharing
