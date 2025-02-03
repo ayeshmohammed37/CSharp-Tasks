@@ -1,0 +1,6 @@
+String Immutability
+	https://docs.google.com/document/d/10TAb0bOkq7q1UfhbqnreJkoUQp4cm79agiwMY48j200/edit?usp=sharing
+Enums
+	https://docs.google.com/document/d/14UoWE9KfmGyB3Ro3FKjEf53ShB-yN9NWJJGECwEtcPE/edit?usp=sharing
+String vs StringBuilder
+	https://docs.google.com/document/d/1BNuJHJzLEHdMXfcRCMv31Iw_iKT6VYleIoEN3MYF6a4/edit?usp=sharing
