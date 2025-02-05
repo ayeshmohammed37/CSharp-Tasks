@@ -1,0 +1,15 @@
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\bin\Debug\net9.0\Shape Series.exe
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\bin\Debug\net9.0\Shape Series.deps.json
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\bin\Debug\net9.0\Shape Series.runtimeconfig.json
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\bin\Debug\net9.0\Shape Series.dll
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\bin\Debug\net9.0\Shape Series.pdb
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.AssemblyInfoInputs.cache
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.AssemblyInfo.cs
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.sourcelink.json
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.dll
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\refint\Shape Series.dll
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.pdb
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\Shape Series.genruntimeconfig.cache
+C:\Users\ayesh\MyWork\DEPI\C#Tasks\Csharp08\ConsoleApp1\Shape Series\obj\Debug\net9.0\ref\Shape Series.dll
