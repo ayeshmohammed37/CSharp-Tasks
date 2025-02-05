@@ -1,0 +1,6 @@
+2- What we mean by Generalization concept using Generics ? 
+	Generalization using Generics refers to the ability to write code that works
+	with any data type while maintaining type safety. 
+	 By using generics, we can define classes, methods,
+	 and data structures that work with any type, without 
+	 sacrificing performance or safety.
