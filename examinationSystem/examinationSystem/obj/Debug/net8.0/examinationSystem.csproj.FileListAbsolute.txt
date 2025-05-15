@@ -1,0 +1,14 @@
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\bin\Debug\net8.0\examinationSystem.exe
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\bin\Debug\net8.0\examinationSystem.deps.json
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\bin\Debug\net8.0\examinationSystem.runtimeconfig.json
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\bin\Debug\net8.0\examinationSystem.dll
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\bin\Debug\net8.0\examinationSystem.pdb
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\examinationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\examinationSystem.AssemblyInfoInputs.cache
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\examinationSystem.AssemblyInfo.cs
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\examinationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\examinationSystem.dll
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\refint\examinationSystem.dll
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\examinationSystem.pdb
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\examinationSystem.genruntimeconfig.cache
+C:\Users\ayesh\Desktop\DEPI\C#\examinationSystem\examinationSystem\obj\Debug\net8.0\ref\examinationSystem.dll
